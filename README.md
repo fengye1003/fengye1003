@@ -1,16 +1,13 @@
-## Hi there 👋
+😘 Hello! You can call me 'HYrecovery' (幻愿Recovery in Chinese)!
 
-<!--
-**fengye1003/fengye1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 I'm a university student in Nanjing University of Technology (NJUT/NJTECH).
 
-Here are some ideas to get you started:
+⌨️ I love C\# and I am studying new technologies!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👤 ENFP personality. Active from 08:30 to 23:30 (UTC+8).
+
+😍 ACGN fan, especially loving Light Novels and cute ACGN lolis.
+
+🌆 Founder of studio 'teko.IO SisTemS!'. Our website? [Click here](https://eachother.work).
+
+🌐 View my GitHub Profile and [my website](https://blog.eachother.work) for more information!
